@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2022-04-20T11:16:22.513500","#meta+orgs+num":102},"data":[
+{"metadata":{"#date+run":"2022-04-21T11:16:22.513500","#meta+orgs+num":106},"data":[
  {
    "#org+id+receiver": "CBi-RECEIVER-1",
    "#org+name+receiver": "[multiple or not specified]"
@@ -9,402 +9,418 @@
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-3",
-   "#org+name+receiver": "Airlink, Inc. [NGO]"
+   "#org+name+receiver": "Agency for Technical Cooperation and Development (ACTED) [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-4",
-   "#org+name+receiver": "Aktion Deutschland Hilft [NGO]"
+   "#org+name+receiver": "Airlink, Inc. [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-5",
-   "#org+name+receiver": "American Red Cross"
+   "#org+name+receiver": "Aktion Deutschland Hilft [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-6",
-   "#org+name+receiver": "American Red Cross in Puerto Rico"
+   "#org+name+receiver": "American Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-7",
-   "#org+name+receiver": "Americares [NGO]"
+   "#org+name+receiver": "American Red Cross in Puerto Rico"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-8",
-   "#org+name+receiver": "ASAP Rescue [NGO]"
+   "#org+name+receiver": "Americares [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-9",
-   "#org+name+receiver": "Association for Community Relations [NGO]"
+   "#org+name+receiver": "ASAP Rescue [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-10",
-   "#org+name+receiver": "Benevolent Healthcare Foundation [NGO]"
+   "#org+name+receiver": "Association for Community Relations [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-11",
-   "#org+name+receiver": "British Red Cross Society "
+   "#org+name+receiver": "Benevolent Healthcare Foundation [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-12",
-   "#org+name+receiver": "British-Ukrainian Aid [NGO]"
+   "#org+name+receiver": "British Red Cross Society "
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-13",
-   "#org+name+receiver": "CAF America [NGO]"
+   "#org+name+receiver": "British-Ukrainian Aid [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-14",
-   "#org+name+receiver": "Canadian Red Cross Society"
+   "#org+name+receiver": "CAF America [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-15",
-   "#org+name+receiver": "CARE International [NGO]"
+   "#org+name+receiver": "Canadian Red Cross Society"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-16",
-   "#org+name+receiver": "Caritas Lviv [NGO]"
+   "#org+name+receiver": "CARE International [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-17",
-   "#org+name+receiver": "City of Košice"
+   "#org+name+receiver": "Caritas Lviv [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-18",
-   "#org+name+receiver": "Comic Relief [NGO]"
+   "#org+name+receiver": "Centrum Praw Kobiet [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-19",
-   "#org+name+receiver": "Crown Agents [NGO]"
+   "#org+name+receiver": "City of Košice"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-20",
-   "#org+name+receiver": "Danish Red Cross"
+   "#org+name+receiver": "Comic Relief [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-21",
-   "#org+name+receiver": "Danish Refugee Council [NGO]"
+   "#org+name+receiver": "Crown Agents [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-22",
-   "#org+name+receiver": "Direct Relief [NGO]"
+   "#org+name+receiver": "Danish Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-23",
-   "#org+name+receiver": "Disasters Emergency Committee (DEC) [NGO]"
+   "#org+name+receiver": "Danish Refugee Council [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-24",
-   "#org+name+receiver": "Doctors for Romania Association [NGO]"
+   "#org+name+receiver": "Direct Relief [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-25",
-   "#org+name+receiver": "Ferry Porsche Foundation [NGO]"
+   "#org+name+receiver": "Disasters Emergency Committee (DEC) [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-26",
-   "#org+name+receiver": "FIRE AID [NGO]"
+   "#org+name+receiver": "Doctors for Romania Association [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-27",
-   "#org+name+receiver": "Foundation Conservation Carpathia [NGO]"
+   "#org+name+receiver": "Ferry Porsche Foundation [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-28",
-   "#org+name+receiver": "Frankfurt Zoological Society [NGO]"
+   "#org+name+receiver": "FIRE AID [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-29",
-   "#org+name+receiver": "French Red Cross"
+   "#org+name+receiver": "Foundation Conservation Carpathia [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-30",
-   "#org+name+receiver": "Fundación Mensajeros por la Paz [NGO]"
+   "#org+name+receiver": "Frankfurt Zoological Society [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-31",
-   "#org+name+receiver": "Fundatia Mereu Aproape [NGO]"
+   "#org+name+receiver": "French Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-32",
-   "#org+name+receiver": "German Red Cross"
+   "#org+name+receiver": "Fundación Mensajeros por la Paz [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-33",
-   "#org+name+receiver": "Giro555 [NGO]"
+   "#org+name+receiver": "Fundatia Mereu Aproape [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-34",
-   "#org+name+receiver": "GlobalGiving [NGO]"
+   "#org+name+receiver": "German Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-35",
-   "#org+name+receiver": "GoFundMe.org Stand With Ukraine Fund"
+   "#org+name+receiver": "Giro555 [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-36",
-   "#org+name+receiver": "GoFundMe.org Ukraine Humanitarian Fund"
+   "#org+name+receiver": "GlobalGiving [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-37",
-   "#org+name+receiver": "Groupe Habitat en Région [NGO]"
+   "#org+name+receiver": "GoFundMe.org Stand With Ukraine Fund"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-38",
-   "#org+name+receiver": "Human Rights Watch [NGO]"
+   "#org+name+receiver": "GoFundMe.org Ukraine Humanitarian Fund"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-39",
-   "#org+name+receiver": "Humane Society International [NGO]"
+   "#org+name+receiver": "Groupe Habitat en Région [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-40",
-   "#org+name+receiver": "Hungarian Interchurch Aid [NGO]"
+   "#org+name+receiver": "Human Rights Watch [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-41",
-   "#org+name+receiver": "Interchurched Aid [NGO]"
+   "#org+name+receiver": "Humane Society International [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-42",
-   "#org+name+receiver": "International Committee of the Red Cross and Red Crescent Societies (ICRC)"
+   "#org+name+receiver": "Hungarian Interchurch Aid [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-43",
-   "#org+name+receiver": "International Federation of Red Cross and Red Crescent Societies (IFRC)"
+   "#org+name+receiver": "Interchurched Aid [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-44",
-   "#org+name+receiver": "International Medical Corps (IMC) [NGO]"
+   "#org+name+receiver": "International Committee of the Red Cross (ICRC)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-45",
-   "#org+name+receiver": "International Organization for Migration (IOM)"
+   "#org+name+receiver": "International Federation of Red Cross and Red Crescent Societies (IFRC)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-46",
-   "#org+name+receiver": "International Rescue Committee (IRC) [NGO]"
+   "#org+name+receiver": "International Medical Corps (IMC) [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-47",
-   "#org+name+receiver": "International Strategic Action Network for Security [NGO]"
+   "#org+name+receiver": "International Organization for Migration (IOM)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-48",
-   "#org+name+receiver": "Irish Red Cross Society"
+   "#org+name+receiver": "International Rescue Committee (IRC) [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-49",
-   "#org+name+receiver": "Italian Red Cross"
+   "#org+name+receiver": "International Strategic Action Network for Security [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-50",
-   "#org+name+receiver": "Jesuit Refugee Service [NGO]"
+   "#org+name+receiver": "Irish Red Cross Society"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-51",
-   "#org+name+receiver": "Lithuanian Red Cross"
+   "#org+name+receiver": "Italian Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-52",
-   "#org+name+receiver": "Luxembourg Red Cross"
+   "#org+name+receiver": "Jesuit Refugee Service [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-53",
-   "#org+name+receiver": "Maria Francesca Rava Foundation [NGO]"
+   "#org+name+receiver": "Lithuanian Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-54",
-   "#org+name+receiver": "Médecins Sans Frontières (MSF) [NGO]"
+   "#org+name+receiver": "Luxembourg Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-55",
-   "#org+name+receiver": "Mercy Chefs [NGO]"
+   "#org+name+receiver": "Maria Francesca Rava Foundation [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-56",
-   "#org+name+receiver": "Mission 823 [NGO]"
+   "#org+name+receiver": "Médecins Sans Frontières (MSF) [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-57",
-   "#org+name+receiver": "Mission of Mercy [NGO]"
+   "#org+name+receiver": "Mercy Chefs [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-58",
-   "#org+name+receiver": "Moldovan Red Cross"
+   "#org+name+receiver": "Mission 823 [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-59",
-   "#org+name+receiver": "People in Need [NGO]"
+   "#org+name+receiver": "Mission of Mercy [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-60",
-   "#org+name+receiver": "Plan International Denmark [NGO]"
+   "#org+name+receiver": "Moldovan Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-61",
-   "#org+name+receiver": "Polish Center for International Aid Foundation [NGO]"
+   "#org+name+receiver": "People in Need [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-62",
-   "#org+name+receiver": "Polish Humanitarian Action [NGO]"
+   "#org+name+receiver": "Plan International Denmark [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-63",
-   "#org+name+receiver": "Polish Red Cross"
+   "#org+name+receiver": "Polish Center for International Aid Foundation [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-64",
-   "#org+name+receiver": "Project Hope [NGO]"
+   "#org+name+receiver": "Polish Humanitarian Action [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-65",
-   "#org+name+receiver": "Razom [NGO]"
+   "#org+name+receiver": "Polish Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-66",
-   "#org+name+receiver": "Refugee Council [NGO]"
+   "#org+name+receiver": "Project Hope [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-67",
-   "#org+name+receiver": "Romanian Red Cross"
+   "#org+name+receiver": "Razom [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-68",
-   "#org+name+receiver": "Samaritan’s Purse [NGO]"
+   "#org+name+receiver": "Refugee Council [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-69",
-   "#org+name+receiver": "Save the Children [NGO]"
+   "#org+name+receiver": "Romanian Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-70",
-   "#org+name+receiver": "Save the Children Denmark [NGO]"
+   "#org+name+receiver": "Samaritan’s Purse [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-71",
-   "#org+name+receiver": "Sovereign Military Order of Malta"
+   "#org+name+receiver": "Save the Children [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-72",
-   "#org+name+receiver": "Spanish Red Cross"
+   "#org+name+receiver": "Save the Children Denmark [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-73",
-   "#org+name+receiver": "Sunflower of Peace [NGO]"
+   "#org+name+receiver": "SOS Villages d' enfants [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-74",
-   "#org+name+receiver": "Swedish Red Cross"
+   "#org+name+receiver": "Sovereign Military Order of Malta"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-75",
-   "#org+name+receiver": "Swiss Red Cross"
+   "#org+name+receiver": "Spanish Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-76",
-   "#org+name+receiver": "The Association for Legal Intervention [NGO]"
+   "#org+name+receiver": "Sunflower of Peace [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-77",
-   "#org+name+receiver": "The Canada-Ukraine Foundation [NGO]"
+   "#org+name+receiver": "Swedish Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-78",
-   "#org+name+receiver": "The Gorta Group [NGO]"
+   "#org+name+receiver": "Swiss Red Cross"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-79",
-   "#org+name+receiver": "The Toy Foundation [NGO]"
+   "#org+name+receiver": "The Association for Legal Intervention [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-80",
-   "#org+name+receiver": "Ukraine Foodbank [NGO]"
+   "#org+name+receiver": "The Canada-Ukraine Foundation [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-81",
-   "#org+name+receiver": "Ukraine Humanitarian Fund (UHF)"
+   "#org+name+receiver": "The Gorta Group [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-82",
-   "#org+name+receiver": "Ukraine Rotary Club Kyiv International [NGO]"
+   "#org+name+receiver": "The Toy Foundation [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-83",
-   "#org+name+receiver": "Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO]"
+   "#org+name+receiver": "Ukraine Foodbank [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-84",
-   "#org+name+receiver": "Ukrainian Red Cross Society"
+   "#org+name+receiver": "Ukraine Humanitarian Fund (UHF)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-85",
-   "#org+name+receiver": "United Hatzalah [NGO]"
+   "#org+name+receiver": "Ukraine Rotary Club Kyiv International [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-86",
-   "#org+name+receiver": "United Help Ukraine [NGO]"
+   "#org+name+receiver": "Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-87",
-   "#org+name+receiver": "United Kingdom for UNHCR"
+   "#org+name+receiver": "Ukrainian Red Cross Society"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-88",
-   "#org+name+receiver": "United Nations Children's Fund (UNICEF)"
+   "#org+name+receiver": "United Hatzalah [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-89",
-   "#org+name+receiver": "United Nations Children's Fund (UNICEF) Canada"
+   "#org+name+receiver": "United Help Ukraine [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-90",
-   "#org+name+receiver": "United Nations Children's Fund (UNICEF) Denmark"
+   "#org+name+receiver": "United Kingdom for UNHCR"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-91",
-   "#org+name+receiver": "United Nations Children's Fund (UNICEF) USA"
+   "#org+name+receiver": "United Nations Central Emergency Response Fund (CERF)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-92",
-   "#org+name+receiver": "United Nations High Commissioner for Refugees (UNHCR)"
+   "#org+name+receiver": "United Nations Children's Fund (UNICEF)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-93",
-   "#org+name+receiver": "United Nations Population Fund (UNFPA)"
+   "#org+name+receiver": "United Nations Children's Fund (UNICEF) Canada"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-94",
-   "#org+name+receiver": "United Way [NGO]"
+   "#org+name+receiver": "United Nations Children's Fund (UNICEF) Denmark"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-95",
-   "#org+name+receiver": "UNO-Flüchtlingshilfe (Germany for UNHCR)"
+   "#org+name+receiver": "United Nations Children's Fund (UNICEF) USA"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-96",
-   "#org+name+receiver": "USA for UNHCR"
+   "#org+name+receiver": "United Nations High Commissioner for Refugees (UNHCR)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-97",
-   "#org+name+receiver": "Voices of Children Foundation [NGO]"
+   "#org+name+receiver": "United Nations Population Fund (UNFPA)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-98",
-   "#org+name+receiver": "World Central Kitchen [NGO]"
+   "#org+name+receiver": "United Way [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-99",
-   "#org+name+receiver": "World Food Programme (WFP)"
+   "#org+name+receiver": "UNO-Flüchtlingshilfe (Germany for UNHCR)"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-100",
-   "#org+name+receiver": "World Health Organization (WHO)"
+   "#org+name+receiver": "USA for UNHCR"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-101",
-   "#org+name+receiver": "World Help [NGO]"
+   "#org+name+receiver": "Voices of Children Foundation [NGO]"
  },
  {
    "#org+id+receiver": "CBi-RECEIVER-102",
+   "#org+name+receiver": "World Central Kitchen [NGO]"
+ },
+ {
+   "#org+id+receiver": "CBi-RECEIVER-103",
+   "#org+name+receiver": "World Food Programme (WFP)"
+ },
+ {
+   "#org+id+receiver": "CBi-RECEIVER-104",
+   "#org+name+receiver": "World Health Organization (WHO)"
+ },
+ {
+   "#org+id+receiver": "CBi-RECEIVER-105",
+   "#org+name+receiver": "World Help [NGO]"
+ },
+ {
+   "#org+id+receiver": "CBi-RECEIVER-106",
    "#org+name+receiver": "World Vision Romania [NGO]"
  }
 ]}
